@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%">
 </div>
 <h1 align="center">Hi 👋, I'm Nisha Majhi</h1>
-<h3 align="center">A passionate C++ Development and Web Development from India</h3>
+<h3 align="center">I passionate about C++ Development and Web Development , from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishamajhi&label=Profile%20views&color=0e75b6&style=flat" alt="nishamajhi" /> </p>
 
