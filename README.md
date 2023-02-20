@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishamajhi&label=Profile%20views&color=0e75b6&style=flat" alt="nishamajhi" /> </p>
 
-- 🌱 I’m currently learning **java script**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NishaMajhi](https://github.com/NishaMajhi)
 
