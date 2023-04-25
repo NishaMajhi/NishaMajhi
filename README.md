@@ -50,7 +50,7 @@
 
 <a href="https://nodejs.dev/en/about/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a>
 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon…aster/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="ExpressJS" width="40" height="40"/> </a>
 
 </p>
 
