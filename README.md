@@ -46,11 +46,11 @@
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 
-<a href="https://nextjs.org/learn/foundations/about-nextjs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app" target="_blank" rel="noreferrer"> <img src="[	https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)" alt="NextJS" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/learn/foundations/about-nextjs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app" target="_blank" rel="noreferrer"> <img src="	https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="40" height="40"/> </a> 
 
 <a href="https://nodejs.dev/en/about/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a>
 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="	https://raw.githubusercontent.com/devicons/devicon…aster/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon…aster/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/> </a>
 
 </p>
 
