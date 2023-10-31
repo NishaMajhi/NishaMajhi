@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Nisha Majhi</h1>
-  <h3>I'm a passionate Software Developer from India</h3>
+  <h3>I'm a passionate software developer with a focus on backend technologies. My mission is to create efficient and scalable solutions that make a positive impact. I enjoy tackling complex problems, optimizing code, and building robust applications.</h3>
 </div>
 
  <!--<p align="left">
@@ -47,7 +47,7 @@
 
 <a href="https://nextjs.org/learn/foundations/about-nextjs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app" target="_blank" rel="noreferrer"> <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" alt="NextJS" width="40" height="40"/> </a> 
 
-<a href="https://nodejs.dev/en/about/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a>
+<a href="https://nodejs.dev/en/about/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png)" alt="NodeJS" width="40" height="40"/> </a>
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="ExpressJS" width="40" height="40"/> </a>
 </p>
