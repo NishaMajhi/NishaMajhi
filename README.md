@@ -3,11 +3,24 @@
   <h3>I'm a passionate software developer with a focus on backend technologies. My mission is to create efficient and scalable solutions that make a positive impact. I enjoy tackling complex problems, optimizing code, and building robust applications.</h3>
 </div>
 
+<!--💼 Professional Experience
+
+- [Previous Job 1]: Describe your role and key accomplishments.
+- [Previous Job 2]: Explain your contributions and responsibilities.
+
+### 🚀 Tech Stack
+
+Here are some of the technologies I work with:
+
+- Backend: Node.js, Express.js
+- Databases: MYSQL,MONGODB
+- Tools: [Mention any tools or methodologies you specialize in]
+-->
  <!--<p align="left">
   <img src="https://komarev.com/ghpvc/?username=nishamajhi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>-->
 
-🌱 I’m currently learning **TypeScript, Nest.js**
+🌱 I'm always eager to expand my knowledge, and currently, I'm exploring **TypeScript, Nest.js**
 
 👨‍💻 You can find all of my projects on [GitHub](https://github.com/NishaMajhi)
 
