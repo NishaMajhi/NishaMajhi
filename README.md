@@ -58,5 +58,5 @@ Here are some of the technologies I work with:
 
 <p align="left">
 <h4 align="left">Developer Tools : </h4>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://docs.github.com/en" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/github-octocat-13c86b8b336d.png" alt="Github" width="40" height="40"/> </a> 
-</p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://docs.github.com/en" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/github-octocat-13c86b8b336d.png" alt="Github" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/github-octocat-13c86b8b336d.png" alt="Postman" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/905/947/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" alt="VsCode" width="40" height="40"/> </a> 
+</p> 
