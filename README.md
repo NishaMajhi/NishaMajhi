@@ -20,8 +20,7 @@ Here are some of the technologies I work with:
   <img src="https://komarev.com/ghpvc/?username=nishamajhi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>-->
 
-🌱 I'm always eager to expand my knowledge, and currently, I'm exploring **TypeScript, Nest.js**
-
+🌱 I'm always eager to expand my knowledge.
 👨‍💻 You can find all of my projects on [GitHub](https://github.com/NishaMajhi)
 
 📫 Reach me at **nishamajhi0@gmail.com**
@@ -33,10 +32,8 @@ Here are some of the technologies I work with:
  
 <a href="[https://linkedin.com/in/https://www.linkedin.com/in/nisha-majhi-0346571b5/](https://www.linkedin.com/in/nisha-majhi-0346571b5/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nisha-majhi-0346571b5/" height="30" width="40" /></a>
 
-<a href="https://twitter.com/nishamajhi0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishamajhi0" height="30" width="40" /></a>
-  
+<a href="https://twitter.com/nishamajhi0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishamajhi0" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/https://leetcode.com/nishamajhi20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nishamajhi20/" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/nishamajhi0/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/nishamajhi0/practice" height="30" width="40" /></a>
 </p>
 
