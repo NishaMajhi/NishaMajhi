@@ -21,6 +21,7 @@ Here are some of the technologies I work with:
 </p>-->
 
 🌱 I'm always eager to expand my knowledge.
+
 👨‍💻 You can find all of my projects on [GitHub](https://github.com/NishaMajhi)
 
 📫 Reach me at **nishamajhi0@gmail.com**
