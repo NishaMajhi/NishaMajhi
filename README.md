@@ -58,5 +58,5 @@ Here are some of the technologies I work with:
 
 <p align="left">
 <h4 align="left">Developer Tools : </h4>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="[https://git-scm.com/](https://docs.github.com/en)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Github" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="[https://git-scm.com/](https://docs.github.com/en)" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/361181/github.svg" alt="Github" width="40" height="40"/> </a> 
 </p>
